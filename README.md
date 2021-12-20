@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @paulojunior-ufla
+- 👀 I’m interested in Software Development and Computer Science in general
+- 🌱 I’m currently learning Go and Typescript languages 
